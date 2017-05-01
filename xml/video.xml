@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.css"?>
+<?xml-stylesheet type="text/xsl" href="video.xsl"?>
+
+<library>
+  <video>
+   
+    <canal>Pildoras Informaticas</canal>
+    <lista>Curso SQL</lista>
+    <duracion>8 horas</duracion>
+    
+  </video>
+
+    <video>
+   
+    <canal>Pildoras Informaticas</canal>
+    <lista>Java desde 0</lista>
+    <duracion>25 horas</duracion>
+   
+    
+  </video>
+
+    <video>
+      <canal>Pildoras Informaticas</canal>
+      <lista>Curso Python</lista>
+    <duracion>5 horas</duracion>
+    
+  </video>
+
+    <video>
+     
+    <canal>Pildoras Informaticas</canal>
+    <lista>Aprendiendo Android Studio</lista>
+    <duracion>12 horas</duracion>
+    
+  </video>
+
+    <video>
+
+    <canal>Coboloco</canal>
+    <lista>Aprendiendo Cobol</lista>
+    <duracion>3 horas</duracion>
+    
+  </video>
+
+</library>

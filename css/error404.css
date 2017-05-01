@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 body{
-	overflow: scroll;
+
 	background-image: url("../resources/deathstar_404.png");
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover; 
+	background-position: absolute;
+
+	background-size: 100% ; 
 }
 
 .footer{

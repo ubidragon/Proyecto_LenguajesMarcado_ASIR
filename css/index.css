@@ -1,16 +1,22 @@
 @charset "UTF-8";
 
+html{
+  background-image: url(../resources/biblioteca.jpg);
+}
+
+
 #body{
 	overflow: initial;
-	background: #16a085;
+	
   min-width: 100%;
    min-height: 100%;
-   background-size:cover;
+
    text-align: center;
-   color: #2c3e50;
+   
 }
 
 .core{
+  padding-top: 20px;
 	padding-right: 15px;
 padding-left: 15px;
 margin-right: auto;

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.css"?>
+<?xml-stylesheet type="text/xsl" href="archivo.xsl"?>
+
+<library>
+  <book>
+    <curso>ASIR Inicial</curso>
+    <name>Formacion y Orientacion Laboral</name>
+    <descripcion></descripcion>
+    
+  </book>
+
+    <book>
+      <curso>ASIR Inicial</curso>
+    <name>Gestion de Bases de Datos</name>
+    <descripcion>Para asignatura de mismo nombre, pertenenciente a curso inicial</descripcion>
+   
+    
+  </book>
+
+    <book>
+      <curso>ASIR Inicial</curso>
+    <name>Lenguajes de Marcas y Sistemas de Gestion de Informacion</name>
+    <descripcion>Para asignatura de mismo nombre, pertenenciente a curso inicial</descripcion>
+    
+  </book>
+
+    <book>
+      <curso>ASIR Inicial</curso>
+    <name>Implantacion de Sistemas Operativos</name>
+    <descripcion>Para asignatura de mismo nombre, pertenenciente a curso inicial</descripcion>
+    
+  </book>
+
+    <book>
+      <curso>ASIR Inicial</curso>
+    <name>Montaje y Mantenimiento de equipos</name>
+    <descripcion>Para asignatura de Fundamentos de Hardware, pertenenciente a curso inicial</descripcion>
+    
+  </book>
+
+</library>
+

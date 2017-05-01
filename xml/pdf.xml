@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.css"?>
+<?xml-stylesheet type="text/xsl" href="pdf.xsl"?>
+
+<library>
+  <pdf>
+   
+    <nombre>Formacion y Orientacion Laboral</nombre>
+    <precio>32'87€</precio>
+    
+  </pdf>
+
+    <pdf>
+   
+    <nombre>Gestion de Bases de Datos</nombre>
+    <precio>25'95€</precio>
+   
+    
+  </pdf>
+
+    <pdf>
+    <nombre>Lenguajes de Marcas y Sistemas de Gestion de Informacion</nombre>
+    <precio>15'6€</precio>
+    
+  </pdf>
+
+    <pdf>
+     
+    <nombre>Implantacion de Sistemas Operativos</nombre>
+    <precio>34'6€</precio>
+    
+  </pdf>
+
+    <pdf>
+
+    <nombre>Montaje y Mantenimiento de equipos</nombre>
+    <precio>22'25€</precio>
+    
+  </pdf>
+
+</library>
+
